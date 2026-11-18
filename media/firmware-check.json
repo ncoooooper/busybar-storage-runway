@@ -1,0 +1,40 @@
+{
+  "id": "BB-029",
+  "source": "Real file growth and real filesystem capacity on a temporary local folder; elapsed sampling interval was controlled.",
+  "scenario": "Created a 2 MiB file between measurements. The adapter read allocated disk blocks and calculated estimated runway from the growth rate.",
+  "keys": [
+    "up",
+    "down",
+    "ok"
+  ],
+  "frames": 54,
+  "distinct_frames": 13,
+  "exit": "App io.ncoooooper.storagerunway exited: finished; heap peak 81.6 of 128 KiB",
+  "sha256": "10c5ae6634182cc092765f2b2b9fcbb679740513d9adff72f218bf2f3968e9f8",
+  "pages": [
+    {
+      "caption": "DISK RUNWAY",
+      "value": "12117min",
+      "lines": [
+        "Growth 9.0 MB/min",
+        "Free 108.6 GB"
+      ]
+    },
+    {
+      "caption": "FOLDER SIZE",
+      "value": "2.1MB",
+      "lines": [
+        "Rolling 2-minute window",
+        "Uses allocated disk blocks"
+      ]
+    }
+  ],
+  "initial": {
+    "caption": "DISK RUNWAY",
+    "value": "8638min",
+    "lines": [
+      "Growth 12.6 MB/min",
+      "Free 108.6 GB"
+    ]
+  }
+}
