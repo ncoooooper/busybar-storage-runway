@@ -10,14 +10,14 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.storagerunway exited: finished; heap peak 81.6 of 128 KiB",
-  "sha256": "10c5ae6634182cc092765f2b2b9fcbb679740513d9adff72f218bf2f3968e9f8",
+  "sha256": "f475783ef5ae0b6fca94e8d597df78d38339bb883a4ba9f7a15be5ce0de2752e",
   "pages": [
     {
       "caption": "DISK RUNWAY",
-      "value": "12117min",
+      "value": "11815min",
       "lines": [
-        "Growth 9.0 MB/min",
-        "Free 108.6 GB"
+        "Growth 9.2 MB/min",
+        "Free 108.5 GB"
       ]
     },
     {
@@ -31,10 +31,10 @@
   ],
   "initial": {
     "caption": "DISK RUNWAY",
-    "value": "8638min",
+    "value": "8627min",
     "lines": [
       "Growth 12.6 MB/min",
-      "Free 108.6 GB"
+      "Free 108.5 GB"
     ]
   }
 }
