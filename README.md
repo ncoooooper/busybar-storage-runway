@@ -18,7 +18,7 @@ Disk free space alone cannot tell a camera operator how long a recording can con
 2. Click to refresh the reading. If the folder is flat or shrinking, wait for fresh growth before expecting a time estimate.
 3. Read the free capacity on the rear when other work is writing to the same disk.
 
-![The display returns to estimated minutes and updates as another measurement arrives.](media/guide/return-to-disk-runway.gif)
+![The display returns to the remaining recording time.](media/guide/return-to-disk-runway.gif)
 
 ## Example from the emulator
 
