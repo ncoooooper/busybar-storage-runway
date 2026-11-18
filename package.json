@@ -1,7 +1,7 @@
 {
   "name": "busybar-storage-runway",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Estimate time to fill your recording volume using observed growth of the selected folder.",
   "author": "ncoooooper",
   "type": "module",

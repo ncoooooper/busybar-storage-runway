@@ -2,5 +2,5 @@
   "category": "dev-monitoring",
   "short_description": "Estimate time to fill your recording volume using observed growth of the selected folder.",
   "description": "Estimate time to fill your recording volume using observed growth of the selected folder. Set folder to your recording directory. The bridge measures allocated bytes with du and free space on that same volume. Give it at least two readings while data is growing. A flat or shrinking folder shows no estimate. The rolling two-minute window adapts as the capture rate changes.",
-  "changelog": "First public version."
+  "changelog": "New screen transitions and high-contrast LED previews."
 }

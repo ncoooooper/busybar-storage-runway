@@ -4,6 +4,20 @@ Estimate time to fill your recording volume using observed growth of the selecte
 
 Disk free space alone cannot tell a camera operator how long a recording can continue. This estimate combines the recording folder’s measured growth with space available on the volume that actually holds it.
 
+## Screen transitions
+
+Browse the growth rate and recording time left. The value sits on the bottom row.
+
+![Storage Runway front display. Browse the growth rate and recording time left. The value sits on the bottom row.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Storage Runway rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Measure growth during a capture
 
 1. Select the recording folder and start the capture as usual. Give the companion at least two readings while new data is being written.
@@ -42,6 +56,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
