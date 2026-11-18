@@ -22,7 +22,7 @@ Disk free space alone cannot tell a camera operator how long a recording can con
 
 ## Example from the emulator
 
-The controlled recording wrote a 2 MiB file, which appears as about 2.1 decimal MB. The estimated minutes are specific to this volume and the measured interval. They will differ on another computer. Real file growth and real filesystem capacity on a temporary local folder; elapsed sampling interval was controlled.
+The controlled recording wrote a 2 MiB file, which appears as about 2.1 decimal MB. The estimated minutes are specific to this volume and the measured interval. They will differ on another computer. The test measured a real local folder and its filesystem capacity over a controlled sampling interval.
 
 ## Set up the source
 
