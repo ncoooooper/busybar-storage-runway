@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.storagerunway exited: finished; heap peak 81.6 of 128 KiB",
-  "sha256": "2431411ab98311f43033c56bf5808b60e827485e0a943d5d1c25f988957af7a7",
+  "sha256": "d7f677720a012258bb33e135320e27302dc7a9ccfc2860a457328a2b3d9ef315",
   "pages": [
     {
       "caption": "DISK RUNWAY",
@@ -51,9 +51,9 @@
     ],
     "frames": 128,
     "distinct_by_flow": [
-      7,
-      11
+      2,
+      2
     ],
-    "exit": "App io.btype.storagerunway exited: finished; heap peak 87.7 of 128 KiB"
+    "exit": "App io.btype.storagerunway exited: finished; heap peak 85.6 of 128 KiB"
   }
 }
